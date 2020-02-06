@@ -43,7 +43,7 @@ class ChatClient {
     companion object {
 
         private const val DEFAULT_HOST = "localhost"
-        private const val DEFAULT_PORT = 8887
+        private const val DEFAULT_PORT = 8885
 
         private val HOST: String
         private val PORT: Int
